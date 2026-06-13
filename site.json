@@ -1,0 +1,41 @@
+{
+  "title": "BrightWave Digital",
+  "description": "Helping businesses grow through modern websites and digital solutions.",
+
+  "theme": {
+    "primaryColor": "#2563eb"
+  },
+
+  "contact": {
+    "phone": "+63 912 345 6789",
+    "email": "hello@brightwave.com"
+  },
+
+  "services": [
+    {
+      "name": "Website Design",
+      "description": "Modern and responsive business websites.",
+      "price": "Starting at ₱8,500"
+    },
+    {
+      "name": "E-Commerce Development",
+      "description": "Online stores with product management.",
+      "price": "Starting at ₱15,000"
+    },
+    {
+      "name": "SEO Optimization",
+      "description": "Improve your visibility on search engines.",
+      "price": "Starting at ₱5,000"
+    }
+  ],
+
+  "about": {
+    "title": "About Us",
+    "content": "BrightWave Digital provides web design, branding, and digital solutions for small and medium businesses."
+  },
+
+  "socials": {
+    "facebook": "https://facebook.com/brightwave",
+    "instagram": "https://instagram.com/brightwave"
+  }
+}
